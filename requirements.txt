@@ -1,0 +1,4 @@
+python-telegram-bot==13.7
+pyshorteners==1.0.1
+validators==0.20.0
+requests
